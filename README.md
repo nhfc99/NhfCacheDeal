@@ -3,7 +3,7 @@
 <p>针对本地普通数据的缓存：基本数据类型、NSDictory、NSArray等</p>
 <h2>安装</h2>
 <ul>
-<li>pod 'DeviceInfo'</li>
+<li>pod 'NhfCacheDeal'</li>
 <li>手动下载然后将文件夹拖至工程中即可</li>
 </ul>
 <h2>使用方法</h2>
